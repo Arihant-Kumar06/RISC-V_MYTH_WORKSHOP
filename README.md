@@ -615,7 +615,9 @@ https://github.com/user-attachments/assets/f43f9e7d-f6ca-478c-8c7f-6f747643a2b1
 	    
 3. Then click on 'compile'.
 
+# Visualization(VIZ) Video
 
+https://github.com/user-attachments/assets/74a4b005-c0d1-434e-8841-0ce56d02b739
 
 
 
